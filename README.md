@@ -3,7 +3,7 @@ A Consistent String-Theoretic Unification Model in Type IIB with Warped Throat G
 Licensed under Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International.
 A Consistent String-Theoretic Unification Model in Type IIB with Warped Throat Geometry
 The Vines–Warped Unification Model (VWUM)
- Terry Vines — 1. November 2025  Licensed under Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International.
+ Terry Vines — 1. November 2024  Licensed under Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International.
 
 Abstract
 We construct a globally consistent, flux-stabilized Type IIB orientifold compactification featuring a single Klebanov–Strassler (KS) warped throat, fully stabilized moduli, a realistic flipped SU(5)×U(1)XSU(5)\times U(1)_XSU(5)×U(1)X​ visible sector on D7-branes, controlled supersymmetry breaking, and unified phenomenology. All complex-structure moduli and the axio-dilaton are fixed by imaginary self-dual (ISD) three-form fluxes. Kähler moduli are stabilized by a KKLT-plus-racetrack superpotential with a controlled anti-D3-brane uplift at the tip of the KS throat.
